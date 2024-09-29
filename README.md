@@ -7,7 +7,7 @@
 
 #   Facebook Video Downloader
 
-Welcome to the ** Facebook Video Downloader**! This tool helps you download videos from Facebook using the terminal, with a modern cyber-like glowing effect in the terminal output.
+Welcome to the **Facebook Video Downloader**! This tool helps you download videos from Facebook using the terminal, with a modern cyber-like glowing effect in the terminal output.
 
 ## Features
 - **Download Facebook Videos**: Easily download public Facebook videos by providing the URL.
@@ -28,7 +28,7 @@ pip install colorama pyfiglet yt-dlp
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/EIRSVi/facebook-video-downloader.git
+    git clone git@github.com:EIRSVi/facebook-video-downloader.git
     
     cd facebook-video-downloader
     ```
