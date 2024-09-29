@@ -5,13 +5,12 @@
     </a>
 </p>
 
-# SRIEVi Facebook Video Downloader
+#   Facebook Video Downloader
 
-Welcome to the **SRIEVi Facebook Video Downloader**! This tool helps you download videos from Facebook using the terminal, with a modern cyber-like glowing effect in the terminal output.
+Welcome to the ** Facebook Video Downloader**! This tool helps you download videos from Facebook using the terminal, with a modern cyber-like glowing effect in the terminal output.
 
 ## Features
 - **Download Facebook Videos**: Easily download public Facebook videos by providing the URL.
-- **Stylish Terminal Output**: Features a glowing SRIEVi logo and gradient text for an immersive user experience.
 - **Simple to Use**: Just provide the Facebook video URL, and the script handles the rest.
 
 ## Requirements
@@ -29,13 +28,14 @@ pip install colorama pyfiglet yt-dlp
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/lkbxob/fbvideodownloader.git
-    cd fbvideodownloader
+    git clone https://github.com/EIRSVi/facebook-video-downloader.git
+    
+    cd facebook-video-downloader
     ```
 
 2. Run the script with a Facebook video URL:
     ```bash
-    python fbvideodownloader.py
+    python fbdl.py
     ```
 
 3. Example with video URL:
@@ -45,7 +45,7 @@ pip install colorama pyfiglet yt-dlp
 
 ### Example
 ```bash
-python fbvideodownloader.py
+python fbdl.py
 ```
 **Output:**
 ```
@@ -57,10 +57,8 @@ Video downloaded successfully: /home/user/Downloads/video_name.mp4
 
 ## Support
 
-Support the development of SRIEVi by following us on:
-- [GitHub](https://github.com/lkbxob)
-- [X (formerly Twitter)](https://x.com/eirsvi)
-- [YouTube](https://youtube.com/@eirsvi)
+Support the development of **\V/** by following us on:
+- [GitHub](https://github.com/EIRSVi)
 
 Stay connected with us for updates and improvements!
 
